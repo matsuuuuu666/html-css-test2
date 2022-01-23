@@ -141,6 +141,10 @@ img {
  width: 100%;
  border: none;;
  }
+ 
+ .header-nav-item-link-button:hover {
+  opacity: 0.8;
+ }
 
 
 main {
@@ -224,6 +228,10 @@ main {
  align-items: center;
 }
 
+.FirstView-content-buttons :hover {
+ opacity: 0.8;
+}
+
 .FirstView-content-buttons a:first-of-type {
  margin-right: 15px;
  width: 306px;
@@ -300,6 +308,10 @@ main {
 
 .top-about-button {
   width: 250px;
+}
+
+.top-about-button:hover {
+ opacity: 0.8;
 }
 
 .link-button {
